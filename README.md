@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/ajeethbt])
+![Profile views](https://gpvc.arturio.dev/ajeethbt)
 Just a guy learning NEW things
 
 Things which i am learning right now
