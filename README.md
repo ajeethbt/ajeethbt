@@ -6,4 +6,8 @@ Things which i am learning right now
 - C#
 
 What I am doing
-Finishing Overthewire
+
+-Finishing Overthewire
+
+What am i good that at?
+- Solving puzzles
